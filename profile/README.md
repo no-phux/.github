@@ -7,7 +7,7 @@ stability: stable
 
 **[phux](https://github.com/no-phux/phux)** — [phux.sh](https://phux.sh) · [docs](https://docs.phux.sh/overview)
 
-Install: `brew trust --tap no-phux/tap && brew install no-phux/tap/phux` · or `curl -fsSL https://phux.sh/install | sh`
+Install: `brew trust --tap no-phux/tap` · `brew install no-phux/tap/phux` · or `curl -fsSL https://phux.sh/install | sh`
 
 ---
 
