@@ -15,7 +15,7 @@ Install: `brew trust --tap no-phux/tap && brew install no-phux/tap/phux` · or `
 | --- | --- |
 | [phux](https://github.com/no-phux/phux) | multiplexer + Cockpit (in-tree) |
 | [homebrew-tap](https://github.com/no-phux/homebrew-tap) | official Homebrew tap |
-| [herdr-opencode](https://github.com/no-phux/herdr-opencode) | OpenCode lifecycle reporting for phux |
+| [herdr-opencode](https://github.com/no-phux/herdr-opencode) | OpenCode plugin: reports real agent state to Herdr |
 | [phux-cockpit](https://github.com/no-phux/phux-cockpit) | archived — now `clients/cockpit` in phux |
 
 no-phux publishes. phux is the product.
