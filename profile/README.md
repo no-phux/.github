@@ -5,7 +5,6 @@ stability: stable
 
 human / bot ergonomics
 
-[phux.sh](https://phux.sh)
-[phux.computer](https://phux.computer)
+[phux.sh](https://phux.sh) / [phux.computer](https://phux.computer)
 
 
